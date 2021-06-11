@@ -1,2 +1,2 @@
-# Webdev
-Creating webpages
+# Webpages
+Created webpages using HTML and CSS
